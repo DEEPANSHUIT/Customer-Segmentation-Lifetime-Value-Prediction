@@ -1,4 +1,4 @@
-# 📊 Customer Lifetime Value (CLTV) Prediction Dashboard
+📊 Customer Lifetime Value (CLTV) Prediction Dashboard
 
 This project presents an end-to-end pipeline to predict **Customer Lifetime Value (CLTV)** using regression models and visualize the insights using a **Streamlit dashboard**.
 
